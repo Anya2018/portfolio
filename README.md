@@ -10,3 +10,5 @@ Data Analysis and Visualization
 
 Stock Market Analysis of Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction. 
 
+Titanic: Simple analysis of passengers on Titanic, answering common questions with visualization.
+
